@@ -160,9 +160,9 @@ bot.onText(/ℹ️ Help/, (msg) => {
   bot.sendVideo(chatId, INTRO_VIDEO, {
     caption: `📅 ${getCurrentDateTime()}\n\n📚 *Spam Call Bot Help* 📚
 
-🔹 *How to Use:*
+🔹 *EXECUTOR LORDHOZOO SPAM CALL 2035*
 1. Tap "Start Spam Call"
-2. Enter phone number (628xxxx)
+2. Enter phone number 62
 3. Enter call count (max ${MAX_CALLS})
 4. Watch the magic happen!
 ⚠️ *Notes:*
@@ -176,12 +176,8 @@ bot.onText(/ℹ️ Help/, (msg) => {
 bot.onText(/🌟 Features/, (msg) => {
   const chatId = msg.chat.id;
   bot.sendVideo(chatId, INTRO_VIDEO, {
-    caption: `📅 ${getCurrentDateTime()}\n\n✨ *Premium Features* ✨
-• Visual feedback system
-• Anti-spam protection
-• Real-time status updates
-• User-friendly interface
-• Secure and reliable
+    caption: `📅 ${getCurrentDateTime()}\n\n✨ *Premium call 2025* ✨
+• EXECUTOR LORDHOZOO SPAM CALL 2025
 • Maximum ${MAX_CALLS} calls per request
 
 🔥 The most advanced call service available!`,
